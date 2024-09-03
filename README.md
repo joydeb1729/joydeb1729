@@ -30,7 +30,7 @@ I am passionate about **Quantum Computing** and **Data Science**. I love explori
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=joydeb1729&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joydeb1729&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joydeb1729&layout=compact&theme=radical&hide=javascript,html,css)
 
 ## 📫 How to Reach Me
 - 📧 Email: [joydebganprokas@gmail.com](mailto:joydebganprokas@gmail.com)
