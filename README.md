@@ -9,7 +9,7 @@ I am passionate about **Quantum Computing** and **Data Science**. I love explori
 ---
 
 ## 🔭 What I'm Currently Working On
-- 🤖 Quantum Computing using **Cirq**, **Qiskit**, and **PennyLane**.
+- 🤖 Quantum Computing using **Cirq** and **Qiskit**.
 - 📚 Advanced algorithms and data structures.
 - 📝 My academic courses.
 
@@ -18,6 +18,7 @@ I am passionate about **Quantum Computing** and **Data Science**. I love explori
 - ![C++](https://img.shields.io/badge/C%2B%2B-F34B7D?style=flat&logo=c%2B%2B&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ## 📊 Python Libraries and Frameworks
 - ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -25,12 +26,12 @@ I am passionate about **Quantum Computing** and **Data Science**. I love explori
 - ![Matplotlib](https://img.shields.io/badge/Matplotlib-003A6C?style=flat&logo=matplotlib&logoColor=white)
 - ![Seaborn](https://img.shields.io/badge/Seaborn-3F7F8C?style=flat&logo=seaborn&logoColor=white)
 - ![Qiskit](https://img.shields.io/badge/Qiskit-0E4F5C?style=flat&logo=qiskit&logoColor=white)
-- ![PennyLane](https://img.shields.io/badge/PennyLane-8F7D7D?style=flat&logo=pennylane&logoColor=white)
 - ![Cirq](https://img.shields.io/badge/Cirq-9B9B9B?style=flat&logo=google&logoColor=white)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=joydeb1729&show_icons=true&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=joydeb1729&show_icons=true&hide=prs&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joydeb1729&layout=compact&theme=radical&hide=javascript,html,css)
+
 
 ## 📫 How to Reach Me
 - 📧 Email: [joydebganprokas@gmail.com](mailto:joydebganprokas@gmail.com)
