@@ -4,8 +4,6 @@
 
 ---
 
-![Profile Banner](https://github.com/joydeb1729/joydeb1729/blob/ececa866c02bcc7a55e56bd3ea2f83b44493d1ef/chatGPT-GitHub-banner.jpg)
-
 I am passionate about **Quantum Computing, Data Science, and Machine Learning**. I love exploring new technologies and continuously learning to enhance my skills.
 
 ---
